@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SkyrimTrader (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SkyrimTrader (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
